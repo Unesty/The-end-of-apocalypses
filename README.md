@@ -1,5 +1,5 @@
 # "The end of apocalypses"
-Survival sandbox for Everything But The Game jam
+Survival sandbox with friendship magic, building and plots
 
 # Controls
 move forward - W
