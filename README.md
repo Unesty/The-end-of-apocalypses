@@ -1,5 +1,5 @@
 # "The end of apocalypses"
-Survival sandbox with friendship magic, building and plots
+Survival sandbox with friendship magic building and plots
 
 # Controls
 move forward - W
